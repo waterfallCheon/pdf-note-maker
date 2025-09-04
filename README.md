@@ -22,3 +22,21 @@
 | :---: | :---: | :---: |
 | <img width="300" alt="원본 PDF 예시" src="https://github.com/user-attachments/assets/310c89eb-51e0-4d51-bac0-20cac5f5edd9"> | <img width="300" alt="모눈 노트 변환 예시" src="https://github.com/user-attachments/assets/d989b299-4ec0-4b81-9631-a809e1681d71"> | <img width="300" alt="라인 노트 변환 예시" src="https://github.com/user-attachments/assets/dd41c189-06b7-49b2-a1bd-d97366041352"> |
 
+## 사용 방법
+
+이 프로그램은 Python 환경에서 실행됩니다.
+
+### 1. Python 설치
+Windows 사용자라면 Python 3.10 이상을 설치하세요.  
+설치할 때 **"Add Python to PATH"** 옵션을 꼭 체크하세요 ✅
+
+혹은 PowerShell에서 아래 명령으로 설치할 수도 있습니다:
+```powershell
+winget install Python.Python.3.11
+``` 
+2. 필요한 라이브러리 설치
+명령 프롬프트(cmd)나 PowerShell을 열고, 아래 명령을 입력하세요:
+
+```powershell
+pip install PyMuPDF
+``` 
