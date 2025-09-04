@@ -34,7 +34,7 @@ Windows 사용자라면 Python 3.10 이상을 설치하세요.
 ```powershell
 winget install Python.Python.3.11
 ``` 
-2. 필요한 라이브러리 설치
+### 2. 필요한 라이브러리 설치
 명령 프롬프트(cmd)나 PowerShell을 열고, 아래 명령을 입력하세요:
 
 ```powershell
